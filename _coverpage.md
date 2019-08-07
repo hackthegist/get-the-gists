@@ -1,12 +1,10 @@
-![logo](_media/icon.svg)
+![logo](_media/maincovericon.png)
 
 # <strong>Get the Gists</strong>
 
 > 배운 것을 간단히 정리합니다
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- 곧 다시 검색할 미래의 나에게,
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[둘러보기](#docsify)
