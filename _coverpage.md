@@ -1,10 +1,10 @@
 ![logo](_media/maincovericon.png)
 
-# <strong>Get the Gists</strong>
+# <strong>Get the gists</strong>
 
-> 배운 것을 간단히 정리합니다
+> 배우고 간단히 정리합니다
 
-- 곧 다시 검색할 미래의 나에게,
+- 내 언어로 다시 쓰는 프로그래밍,
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [둘러보기](#docsify)
