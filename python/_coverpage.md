@@ -1,4 +1,4 @@
-![logo](../_media/cute-python.svg)
+![logo](../_media/logo-python.svg)
 
 # Get the <strong>Python</strong> gists
 

@@ -8,9 +8,8 @@
 
 - Languages
 
-  - [Javascript](configuration.md)
+  - [Javascript](js/)
   - [Python](python/)
-  - [Java](plugins.md)
   - [C++](write-a-plugin.md)
   - [C](markdown.md)
 
@@ -30,7 +29,7 @@
 
   - [Node.js](helpers.md)
   - [Express](vue.md)
-  - [Django](cdn.md)
+  - [Django](django/)
 
 
 - [github repo](awesome.md)
