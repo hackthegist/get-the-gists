@@ -1,7 +1,7 @@
 - Computer Science
 
   - [Structure of Computer](quickstart.md)
-  - [Software Development]()
+  - [Software Development](sw.md)
   - [Data Structure](more-pages.md)
   - [Algorithm](custom-navbar.md)
   - [Operating System](cover.md)
@@ -32,5 +32,5 @@
   - [Express](vue.md)
   - [Django](cdn.md)
 
-- Refren
+- Refernce
 - [github repo](awesome.md)
