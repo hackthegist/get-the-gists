@@ -1,16 +1,15 @@
 - Computer Science
 
   - [Structure of Computer](quickstart.md)
-  - [Software Development](sw.md)
-  - [Data Structure](more-pages.md)
-  - [Algorithm](custom-navbar.md)
+  - [Software Development](software_development.md)
+  - [Data Structure](ds/)
+  - [Algorithms](algo/)
   - [Operating System](cover.md)
 
 - Languages
 
-  - [Javascript](configuration.md)
-  - [Python](themes.md)
-  - [Java](plugins.md)
+  - [Javascript](js/)
+  - [Python](python/)
   - [C++](write-a-plugin.md)
   - [C](markdown.md)
 
@@ -28,9 +27,8 @@
 
 - Web Backend
 
-  - [Nodejs](helpers.md)
+  - [Node.js](helpers.md)
   - [Express](vue.md)
-  - [Django](cdn.md)
+  - [Django](django/)
 
-- Refernce
-- [github repo](awesome.md)
+* [github repo](awesome.md)
